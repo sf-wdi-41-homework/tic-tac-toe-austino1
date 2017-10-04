@@ -1,8 +1,25 @@
 #board {
   margin-top: 10px;
+
 }
 
 .box {
   border: 1px solid black;
   height: 150px;
+}
+
+.row {
+	text-align: center;
+	font-size: 30px;
+
+}
+
+#reset {
+	text-align: center;
+	font-size: 60px;
+	margin-top: 20px;
+}
+
+.disable {
+	font-size: 130px;
 }
