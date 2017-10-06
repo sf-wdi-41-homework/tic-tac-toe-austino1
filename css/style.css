@@ -23,3 +23,19 @@
 .disable {
 	font-size: 130px;
 }
+
+div.col-sm-4.box {
+	background: #25408D;
+}
+
+body {
+	background: #16C588;
+}
+
+h1 {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 80px;
+}
+
+
+
